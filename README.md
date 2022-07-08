@@ -1,20 +1,28 @@
-Hey I am ARDA BAYSALLAR
+-----------------------------------------------------------------------------------------------------
+MAIN TARGET: FLO Company, which is an online shoe store,
+wants to segment its customers and determine marketing strategies
+according to these segments. For this purpose, the behaviors of the customers
+will be defined, and groups will be created according to the clustering in these behaviors.
+# -----------------------------------------------------------------------------------------------------
 
-Engineer, Data Scientist and ML Professional. 
-I love Data that is why I change my path. 
+# -----------------------------------------------------------------------------------------------------
+DATA SET: The dataset consists of the information obtained from the past shopping
+behaviors of the customers who made their last shopping from the FLO Company as
+ Omni-Channel (both online and offline shopping) in the years 2020-2021
 
-I am life long learner, that is why enjoy hard DS problems and play with data for potential solutions
-Please reach me any side project or other ideas about ML and DataScience 
+# -----------------------------------------------------------------------------------------------------
+# DETAILS OF DATA SET FEATURES :
+# master_id: Unique customer number
+# order_channel: Which channel of the shopping platform is used (Android, ios, Desktop, Mobile)
+# last_order_channel: The channel where the most recent purchase was made
+# first_order_date: Date of the customer's first purchase
+# last_order_date: Customer's last purchase date
+# last_order_date_online: The date of the last purchase made by the customer on the online platform
+# last_order_date_offline: The date of the last purchase made by the customer on the offline platform
+# order_num_total_ever_online: The total number of purchases made by the customer on the online platform
+# order_num_total_ever_offline: Number of collections made by the customer offline
+# customer_value_total_ever_offline: Total fee paid by the customer for offline purchases
+# customer_value_total_ever_online: The total fee paid by the customer for their online shopping
+# interested_in_categories_12: List of categories the customer has shopped in the last 12 months
+# 
 
-Have a wonderul day ! 
-
-
-
-
-# VBO
-Data Science and ML Example works of mine
-
-
-For this part I am creating projects for my ML and Data Science bootcamp. 
-
-You can see Machine learning methodologies as well as statistical applications such as basic data science applications, CRM analytics, AB Tests.
